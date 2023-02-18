@@ -1,10 +1,10 @@
-# THIS REPO IS IN BUILD! ITS NOT FINISHED YET!
+### THIS REPO IS IN BUILD! ITS NOT FINISHED YET!
 
-### Discord.py Bots
+# Discord.py Bots
 
 Your new to coding Discord.py Bots and want use some code **examples** to start? Well, i've got a solution for you. In this repository, i've coded some bots, which have diffrent features, you can use `4 free`!
 
-### Bots
+# Bots
 
 - **Warnings** (keep your server safe from unwanted spam, raids, and attacks with Atlas's anti-raid feature. With customizable settings, you can configure Atlas to detect and block unwanted behavior before it becomes a problem.)
 
@@ -14,14 +14,14 @@ Your new to coding Discord.py Bots and want use some code **examples** to start?
 
 - **Moderation** (manage your server with ease using this bots moderation tools. With features like warning, muting, and role management, this bot gives you the power to keep your server running smoothly and harmoniously.)
 
-### Getting Started
+# Getting Started
 
 These are `self-hosted` bots – meaning you will need to host and maintain your `own instances`.
 
 The Installation is very easy, and you do **NOT NEED** to know anything about coding! The Bots can be controlled inside of Discord.
 For more information on how to use the bot and its various features, check out the [`documentation`](https://github.com/liinuu/discordpy-bots/docs.md).
 
-### Contributing
+# Contributing
 
 If you're interested in `contributing` to these bots, feel free to `submit pull requests` or `issues` in the repository. I welcome any and all contributions to help make these bots the best Discord bots it can be!
 
