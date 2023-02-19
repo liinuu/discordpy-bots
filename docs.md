@@ -28,7 +28,7 @@ In this part of the docs, im going to show you how to set up a bot from this rep
 - You need a Server where you can run the Discord Bot, for example at 
 - You need Python3, pip3 and discord.py installed
 
-_If you don't have Python3, pip3 or discord.py installed, press [here](https://github.com/liinuu/discordpy-bots/req.md)_
+_If you don't have Python3, pip3 or discord.py installed, press [here](https://github.com/liinuu/discordpy-bots/blob/main/req.md)_
 ### STEP 1:
 
 Choose your pattern/example from the list, in this installation-guide im going to use the "Warnings-Bot".
