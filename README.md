@@ -19,7 +19,7 @@ Your new to coding Discord.py Bots and want use some code **examples** to start?
 These are `self-hosted` bots – meaning you will need to host and maintain your `own instances`.
 
 The Installation is very easy, and you do **NOT NEED** to know anything about coding! The Bots can be controlled inside of Discord.
-For more information on how to use the bot and its various features, check out the [`documentation`](https://github.com/liinuu/discordpy-bots/docs.md).
+For more information on how to use the bot and its various features, check out the [`documentation`](https://github.com/liinuu/discordpy-bots/blob/main/docs.md).
 
 # Contributing
 
